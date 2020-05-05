@@ -5,13 +5,15 @@ const RESOURCES = {
 "/": "66e24dc4773958a097aa0964048b5adf",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"assets/story/1/hokuma.jpg": "da4cb011fdae64db030c5c7cb747dacd",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+"assets/web/assets/story/1/hokuma.jpg": "da4cb011fdae64db030c5c7cb747dacd",
+"assets/AssetManifest.json": "f268e40b31b6dacb18eed5bbbb64e25e",
 "assets/LICENSE": "aafbd8ff8b32cf7f1686091b64082a64",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "96cfeeccf40aa608e7fa8126924620a6",
+"main.dart.js": "356760425e616c04d42f54a5feeb975b",
 "manifest.json": "10650a18edaf253be7032f884bc3da07"
 };
 
