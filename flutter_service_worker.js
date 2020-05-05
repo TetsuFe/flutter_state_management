@@ -1,8 +1,8 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "66e24dc4773958a097aa0964048b5adf",
-"/": "66e24dc4773958a097aa0964048b5adf",
+  "index.html": "cf851b0227abb4790972313dd86517b5",
+"/": "cf851b0227abb4790972313dd86517b5",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "assets/story/1/hokuma.jpg": "da4cb011fdae64db030c5c7cb747dacd",
