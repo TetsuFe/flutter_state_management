@@ -38763,7 +38763,7 @@ t.push(new U.nr("",!1,!0,r,r,r,!1,r,C.af,C.k,"",!0,!1,r,C.bj))
 return!1}return!0},
 $S:5}
 S.tr.prototype={
-E:function(a){var t=null,s=Q.Ww(1,!1,"\u30c6\u30b9\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u3067\u3059","assets/story/1/hokuma.jpg","chapter1"),r=X.Wp(t,C.ol)
+E:function(a){var t=null,s=Q.Ww(1,!1,"\u30c6\u30b9\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u3067\u3059","assets/story/story/1/hokuma.jpg","chapter1"),r=X.Wp(t,C.ol)
 return new S.oj(new Y.vS(H.b([V.WU(t,new S.DJ(s),u.mQ,u.dk)],u.ms),new L.ye(t),t),r,t)}}
 S.DJ.prototype={
 $1:function(a){return new B.pD(new P.iN(u.BB),this.a)}}
