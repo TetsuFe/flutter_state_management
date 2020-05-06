@@ -40778,7 +40778,7 @@ $2:function(a,b){return new Q.wm(L.fI("chapter1",null),new K.Nb(a),null)},
 $C:"$2",
 $R:2}
 K.Nb.prototype={
-$0:function(){var t=Q.Yk(1,!1,"\u30c6\u30b9\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u3067\u3059","assets/story//1/hokuma.jpg","chapter1"),s=u.z
+$0:function(){var t=Q.Yk(1,!1,"\u30c6\u30b9\u30c8\u30b9\u30c8\u30fc\u30ea\u30fc\u3067\u3059","assets/story/1/hokuma.jpg","chapter1"),s=u.z
 K.wL(this.a).rD(V.Uu(new K.Na(t),null,s),s)},
 $S:0}
 K.Na.prototype={
