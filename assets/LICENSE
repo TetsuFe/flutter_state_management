@@ -3921,6 +3921,7 @@ build_config
 graphs
 io
 json_annotation
+json_serializable
 multi_server_socket
 pedantic
 stream_transform
